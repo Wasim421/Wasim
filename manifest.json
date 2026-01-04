@@ -1,0 +1,8 @@
+{
+    "name": "st-ai-sync",
+    "display_name": "Character AI Sync Pro",
+    "version": "2.0.0",
+    "description": "PNG Uploader, Lip Sync & Expression Control",
+    "author": "Wasim",
+    "entrypoint": "index.js"
+}
